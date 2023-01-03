@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.Mappers.deps.json
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.Mappers.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.Mappers.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.DTOs.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.Domain.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\bin\Debug\net6.0\AspektJob.DTOs.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.csproj.CopyComplete
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\refint\AspektJob.Mappers.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\AspektJob.Mappers.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Mappers\obj\Debug\net6.0\ref\AspektJob.Mappers.dll

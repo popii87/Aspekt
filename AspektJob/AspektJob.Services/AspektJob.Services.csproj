@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspektJob.DataAccess\AspektJob.DataAccess.csproj" />
+    <ProjectReference Include="..\AspektJob.Domain\AspektJob.Domain.csproj" />
+    <ProjectReference Include="..\AspektJob.DTOs\AspektJob.DTOs.csproj" />
+    <ProjectReference Include="..\AspektJob.Mappers\AspektJob.Mappers.csproj" />
+  </ItemGroup>
+
+</Project>

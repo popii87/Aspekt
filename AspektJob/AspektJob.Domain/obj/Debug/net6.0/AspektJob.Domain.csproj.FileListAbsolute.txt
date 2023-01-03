@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\bin\Debug\net6.0\AspektJob.Domain.deps.json
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\bin\Debug\net6.0\AspektJob.Domain.runtimeconfig.json
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\bin\Debug\net6.0\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\bin\Debug\net6.0\AspektJob.Domain.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\refint\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\AspektJob.Domain.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.Domain\obj\Debug\net6.0\ref\AspektJob.Domain.dll

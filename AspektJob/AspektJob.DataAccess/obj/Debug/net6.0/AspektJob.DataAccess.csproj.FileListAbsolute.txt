@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\bin\Debug\net6.0\AspektJob.DataAccess.deps.json
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\bin\Debug\net6.0\AspektJob.DataAccess.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\bin\Debug\net6.0\AspektJob.DataAccess.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\bin\Debug\net6.0\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\bin\Debug\net6.0\AspektJob.Domain.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.csproj.CopyComplete
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\refint\AspektJob.DataAccess.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\AspektJob.DataAccess.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DataAccess\obj\Debug\net6.0\ref\AspektJob.DataAccess.dll

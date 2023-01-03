@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\bin\Debug\net6.0\AspektJob.DTOs.deps.json
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\bin\Debug\net6.0\AspektJob.DTOs.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\bin\Debug\net6.0\AspektJob.DTOs.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\refint\AspektJob.DTOs.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\ref\AspektJob.DTOs.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\bin\Debug\net6.0\AspektJob.Domain.dll
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\bin\Debug\net6.0\AspektJob.Domain.pdb
+C:\Users\Asus\Desktop\DecemberStudy\AspektJob\AspektJob.DTOs\obj\Debug\net6.0\AspektJob.DTOs.csproj.CopyComplete

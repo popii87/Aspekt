@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob", "AspektJob\AspektJob.csproj", "{1B93F338-79CB-45EC-B75E-B3FE987E12EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1FEB4E46-E80C-41E6-BC5D-9F86833763FB} = {1FEB4E46-E80C-41E6-BC5D-9F86833763FB}
+		{71D906FB-8E55-4325-B391-6EC5C4037AB5} = {71D906FB-8E55-4325-B391-6EC5C4037AB5}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob.Domain", "AspektJob.Domain\AspektJob.Domain.csproj", "{1FEB4E46-E80C-41E6-BC5D-9F86833763FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob.DataAccess", "AspektJob.DataAccess\AspektJob.DataAccess.csproj", "{71D906FB-8E55-4325-B391-6EC5C4037AB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob.DTOs", "AspektJob.DTOs\AspektJob.DTOs.csproj", "{CE319B3A-B60C-4FF8-9F5B-E2F01F314964}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob.Services", "AspektJob.Services\AspektJob.Services.csproj", "{5D038F7B-893A-409D-BAF9-00F71140F524}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspektJob.Mappers", "AspektJob.Mappers\AspektJob.Mappers.csproj", "{68BB1E34-5FDA-48A3-AFC4-0FD5682ACB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B93F338-79CB-45EC-B75E-B3FE987E12EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B93F338-79CB-45EC-B75E-B3FE987E12EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B93F338-79CB-45EC-B75E-B3FE987E12EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B93F338-79CB-45EC-B75E-B3FE987E12EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEB4E46-E80C-41E6-BC5D-9F86833763FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEB4E46-E80C-41E6-BC5D-9F86833763FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEB4E46-E80C-41E6-BC5D-9F86833763FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEB4E46-E80C-41E6-BC5D-9F86833763FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D906FB-8E55-4325-B391-6EC5C4037AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D906FB-8E55-4325-B391-6EC5C4037AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D906FB-8E55-4325-B391-6EC5C4037AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D906FB-8E55-4325-B391-6EC5C4037AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE319B3A-B60C-4FF8-9F5B-E2F01F314964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE319B3A-B60C-4FF8-9F5B-E2F01F314964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE319B3A-B60C-4FF8-9F5B-E2F01F314964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE319B3A-B60C-4FF8-9F5B-E2F01F314964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D038F7B-893A-409D-BAF9-00F71140F524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D038F7B-893A-409D-BAF9-00F71140F524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D038F7B-893A-409D-BAF9-00F71140F524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D038F7B-893A-409D-BAF9-00F71140F524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB1E34-5FDA-48A3-AFC4-0FD5682ACB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB1E34-5FDA-48A3-AFC4-0FD5682ACB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB1E34-5FDA-48A3-AFC4-0FD5682ACB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB1E34-5FDA-48A3-AFC4-0FD5682ACB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1275687D-4380-42FB-BEB3-3FB79C3862FB}
+	EndGlobalSection
+EndGlobal
